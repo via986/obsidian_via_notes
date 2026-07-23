@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/venv.md",
+                "file": "Dev/Образы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "venv"
+              "title": "Образы"
             }
           }
         ]
@@ -186,15 +186,15 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
+    "Dev/GIT.md",
     "Dev/Open WebUI.md",
+    "Dev/OpenRouter Clients.md",
     "Dev/venv.md",
     "Dev/Dev container.md",
     "Dev/Образы.md",
     "Dev/Docker Compose.md",
     "Dev/devcontainer & .env.md",
     "Dev/Docker Volumes.md",
-    "Dev/GIT.md",
-    "Dev/OpenRouter Clients.md",
     "Welcome.md",
     "Dev"
   ]
