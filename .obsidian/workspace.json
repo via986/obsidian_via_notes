@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Dev/OpenRouter Clients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "OpenRouter Clients"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
     "Dev/Dev container.md",
+    "Dev/OpenRouter Clients.md",
     "Dev/GIT.md",
     "Welcome.md",
     "Dev"
