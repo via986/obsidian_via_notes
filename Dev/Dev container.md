@@ -26,3 +26,17 @@
     `}`
   `}`
 `}`
+
+"переделка" контейнера
+
+`docker update --restart always open-webui`
+`docker update --restart no open-webui`
+
+### Как проверить, изменилось ли что-то?
+
+Чтобы убедиться, что настройка применилась, можно заглянуть в свойства контейнера:
+Bash
+```
+docker inspect open-webui --format "{{.HostConfig.RestartPolicy.Name}}"
+```
+Команда вернет `always` или `no` в зависимости от того, какой режим вы выбрали последним.
