@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c70879fac256d8e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35877bfbd96a76e3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -190,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
