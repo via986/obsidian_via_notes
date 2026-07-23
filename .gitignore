@@ -1,0 +1,8 @@
+# Игнорировать локальные настройки Obsidian (разрешения экрана, открытые вкладки)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/backups/
+
+# Игнорировать системные файлы
+.DS_Store
+Thumbs.db
