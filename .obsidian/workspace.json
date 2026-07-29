@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Hysteria & nginx + SERVER.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hysteria & nginx + SERVER"
+              "title": "Welcome"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "674254eef7dd10c2",
+  "active": "5998c2d9f8afee04",
   "lastOpenFiles": [
-    "Dev/OpenRouter Clients.md",
     "Dev/Hysteria & nginx + SERVER.md",
+    "Dev/OpenRouter Clients.md",
     "Dev/GIT.md",
     "Dev/Docker/venv.md",
     "Dev/Docker",
