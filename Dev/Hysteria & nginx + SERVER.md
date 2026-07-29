@@ -33,3 +33,11 @@ Hysteria у вас берёт сертификат не из внутренне�
 
 Выпуск сертификата без работающего вебсервера на 80 порту
 `sudo certbot certonly --standalone -d xpira.mooo.com --force-renewal`
+
+###### Также установлены
+
++ telemt
++ torrserver
+
+просмотр работающих служб:
+`systemctl list-units --type=service --state=running`
