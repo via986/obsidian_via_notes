@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,8 +188,9 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
-    "Dev/Hysteria & nginx + SERVER.md",
+    "Car/Kodiaq.md",
     "Dev/UV.md",
+    "Dev/Hysteria & nginx + SERVER.md",
     "Personal/Size.md",
     "Personal/Hints.md",
     "Personal",
@@ -195,7 +198,6 @@
     "Dev/Docker/Образы.md",
     "Car/Tayron.md",
     "Car/Q3.md",
-    "Car/Kodiaq.md",
     "Car/Golf.md",
     "Welcome.md",
     "Car",
