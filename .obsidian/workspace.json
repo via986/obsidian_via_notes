@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/UV.md",
+                "file": "Dev/GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UV"
+              "title": "GIT"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
-    "Car/Kodiaq.md",
     "Dev/UV.md",
+    "Car/Kodiaq.md",
     "Dev/Hysteria & nginx + SERVER.md",
     "Personal/Size.md",
     "Personal/Hints.md",
