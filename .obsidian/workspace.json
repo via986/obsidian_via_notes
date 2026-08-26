@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/GIT.md",
+                "file": "Work/ОМЕГА БАЛАНС.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "ОМЕГА БАЛАНС"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
+    "Dev/GIT.md",
+    "Work/ОМЕГА БАЛАНС.md",
+    "Work",
     "Dev/UV.md",
     "Car/Kodiaq.md",
     "Dev/Hysteria & nginx + SERVER.md",
@@ -202,7 +205,6 @@
     "Welcome.md",
     "Car",
     "Dev/OpenRouter Clients.md",
-    "Dev/GIT.md",
     "Dev/Docker/venv.md",
     "Dev/Docker",
     "Dev/Docker/Open WebUI.md",
