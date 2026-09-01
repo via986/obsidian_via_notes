@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ОМЕГА БАЛАНС.md",
+                "file": "Dev/Docker/Fast Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОМЕГА БАЛАНС"
+              "title": "Fast Deploy"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
-    "Dev/GIT.md",
+    "Dev/Docker/Образы.md",
+    "Dev/Docker/Fast Deploy.md",
+    "Dev/Docker/Docker Compose.md",
     "Work/ОМЕГА БАЛАНС.md",
+    "Dev/GIT.md",
     "Work",
     "Dev/UV.md",
     "Car/Kodiaq.md",
@@ -198,7 +201,6 @@
     "Personal/Hints.md",
     "Personal",
     "IMG_20260816_122348.jpg",
-    "Dev/Docker/Образы.md",
     "Car/Tayron.md",
     "Car/Q3.md",
     "Car/Golf.md",
@@ -209,7 +211,6 @@
     "Dev/Docker",
     "Dev/Docker/Open WebUI.md",
     "Dev/Docker/Dev container.md",
-    "Dev/Docker/Docker Compose.md",
     "Dev/Docker/devcontainer & .env.md",
     "Dev/Docker/Docker Volumes.md",
     "Dev"
