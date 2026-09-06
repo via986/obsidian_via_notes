@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Docker/Fast Deploy.md",
+                "file": "Dev/Docker/Open WebUI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast Deploy"
+              "title": "Open WebUI"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
-    "Dev/Docker/Образы.md",
     "Dev/Docker/Fast Deploy.md",
+    "Personal/Радио.md",
+    "Dev/Docker/Образы.md",
     "Dev/Docker/Docker Compose.md",
     "Work/ОМЕГА БАЛАНС.md",
     "Dev/GIT.md",

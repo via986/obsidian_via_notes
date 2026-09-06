@@ -50,3 +50,19 @@ docker run -d -p 3000:8080 -e OPENROUTER_API_KEY="ВАШ_КЛЮЧ_OPENROUTER" -v
 - **Остановка чата:** Если вам нужно временно выключить интерфейс, просто откройте Docker Desktop, найдите в списке контейнеров `open-webui` и нажмите квадратную иконку (Stop).    
 - **Запуск:** Включается там же кнопкой Play (Start) или автоматически при старте компьютера.    
 - **Обновление:** Разработчики Open WebUI выпускают обновления почти каждый день. Чтобы обновиться, достаточно остановить и удалить контейнер в Docker Desktop (ваша переписка не удалится, она лежит в Volume) и запустить ту же команду `docker run...` в терминале заново — Docker сам скачает самую свежую версию интерфейса.
+
+### Обновление
+1. Остановить контейнер
+docker stop open-webui
+
+2. Удалить контейнер (volume с данными останется!)
+docker rm open-webui
+
+3. Скачать последнюю версию образа
+docker pull ghcr.io/open-webui/open-webui:main
+
+4. Запустить новый контейнер с теми же параметрами
+`docker run -d -p 3000:8080` `-v open-webui:/app/backend/data` 
+    `-e OPENROUTER_API_KEY="ВАШ_КЛЮЧ_OPENROUTER"` 
+    `--name open-webui` 
+    `ghcr.io/open-webui/open-webui:main`
