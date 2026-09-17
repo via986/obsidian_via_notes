@@ -11,8 +11,7 @@
 пушим локальные файлы
 `git push -u origin main`
 
-Команда `git push -u origin main` связывает вашу локальную ветку `main` с веткой на GitHub. В следующий раз для отправки изменений 
-вам достаточно будет написать просто `git push`
+Команда `git push -u origin main` связывает вашу локальную ветку `main` с веткой на GitHub. В следующий раз для отправки изменений вам достаточно будет написать просто `git push`
 
 Проверка
 `git remote -v`
@@ -23,3 +22,7 @@
 `git reset --soft origin/main`
 `git commit -m "Ваше сообщение коммита"`
 `git push`
+
+**Delete from Git but KEEP the local file**
+git rm --cached filename.txt
+git commit -m "Stop tracking filename.txt"
