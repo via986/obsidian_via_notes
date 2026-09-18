@@ -18,3 +18,7 @@ The group listed as gid= is the user's primary group. groups= lists all groups t
 
 If, instead, you want to delete the user's home directory when the user is deleted, you can issue the following command as root:
 `deluser --remove-home newuser`
+
+Добавление SSH ключа
+
+`Get-Content "$env:USERPROFILE\.ssh\id_ed25519_my_new_server.pub" | ssh root@IP_адрес_сервера "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys"`
