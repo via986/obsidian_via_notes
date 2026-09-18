@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Docker/Fast Deploy.md",
+                "file": "Dev/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast Deploy"
+              "title": "SSH"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
+    "Dev/Docker/Fast Deploy.md",
+    "Dev/SSH.md",
     "Dev/Docker/venv.md",
     "Dev/OpenRouter Clients.md",
     "Dev/Docker/Dev container.md",
@@ -195,7 +197,6 @@
     "Dev/GIT.md",
     "Work/Атриум.md",
     "Dev/Docker/Open WebUI.md",
-    "Dev/Docker/Fast Deploy.md",
     "Personal/Радио.md",
     "Dev/Docker/Docker Compose.md",
     "Work/ОМЕГА БАЛАНС.md",
