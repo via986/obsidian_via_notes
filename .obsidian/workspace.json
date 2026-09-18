@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Ubuntu.md",
+                "file": "Dev/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "SSH"
             }
           }
         ]
@@ -188,11 +188,11 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
-    "Dev/SSH.md",
+    "Dev/OpenRouter Clients.md",
     "Dev/Ubuntu.md",
+    "Dev/SSH.md",
     "Dev/Docker/Fast Deploy.md",
     "Dev/Docker/venv.md",
-    "Dev/OpenRouter Clients.md",
     "Dev/Docker/Dev container.md",
     "Dev/Docker/Образы.md",
     "Dev/GIT.md",
