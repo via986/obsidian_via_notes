@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/TorrServer.md",
+                "file": "Dev/SSH/SSH Tunel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TorrServer"
+              "title": "SSH Tunel"
             }
           }
         ],
@@ -203,12 +203,14 @@
   },
   "active": "233117eda1b12a67",
   "lastOpenFiles": [
-    "IMG_20260816_122348.jpg",
+    "Dev/SSH/SSH.md",
+    "Dev/SSH/SSH Tunel.md",
+    "Dev/SSH",
+    "Dev/Ubuntu.md",
     "Personal/TorrServer.md",
+    "IMG_20260816_122348.jpg",
     "conflict-files-obsidian-git.md",
     "Dev/GIT.md",
-    "Dev/Ubuntu.md",
-    "Dev/SSH.md",
     "Dev/Docker/Fast Deploy.md",
     "Dev/Docker/Docker Volumes.md",
     "Dev/Docker/Docker Compose.md",
