@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Docker/Fast Deploy.md",
+                "file": "Dev/GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast Deploy"
+              "title": "GIT"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
+    "Dev/Docker/Fast Deploy.md",
     "Dev/Docker/Docker Volumes.md",
     "Dev/Docker/Docker Compose.md",
     "Dev/Docker/devcontainer & .env.md",
@@ -197,7 +198,6 @@
     "Dev/Hysteria & nginx + SERVER.md",
     "Dev/GIT.md",
     "Dev/Docker/Open WebUI.md",
-    "Dev/Docker/Fast Deploy.md",
     "Personal/Радио.md",
     "Work/ОМЕГА БАЛАНС.md",
     "Work",
