@@ -25,12 +25,14 @@
             "id": "233117eda1b12a67",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG_20260816_122348.jpg"
+                "file": "Personal/TorrServer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_20260816_122348"
+              "icon": "lucide-file",
+              "title": "TorrServer"
             }
           }
         ],
@@ -199,9 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5998c2d9f8afee04",
+  "active": "233117eda1b12a67",
   "lastOpenFiles": [
     "IMG_20260816_122348.jpg",
+    "Personal/TorrServer.md",
     "conflict-files-obsidian-git.md",
     "Dev/GIT.md",
     "Dev/Ubuntu.md",
