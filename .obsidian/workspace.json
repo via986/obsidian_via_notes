@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "GIT"
             }
+          },
+          {
+            "id": "233117eda1b12a67",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG_20260816_122348.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_20260816_122348"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "674254eef7dd10c2",
+  "active": "5998c2d9f8afee04",
   "lastOpenFiles": [
+    "IMG_20260816_122348.jpg",
+    "conflict-files-obsidian-git.md",
+    "Dev/GIT.md",
+    "Dev/Ubuntu.md",
+    "Dev/SSH.md",
     "Dev/Docker/Fast Deploy.md",
     "Dev/Docker/Docker Volumes.md",
     "Dev/Docker/Docker Compose.md",
@@ -196,7 +214,6 @@
     "Dev/Docker/Образы.md",
     "Dev/Docker/venv.md",
     "Dev/Hysteria & nginx + SERVER.md",
-    "Dev/GIT.md",
     "Dev/Docker/Open WebUI.md",
     "Personal/Радио.md",
     "Work/ОМЕГА БАЛАНС.md",
@@ -206,7 +223,6 @@
     "Personal/Size.md",
     "Personal/Hints.md",
     "Personal",
-    "IMG_20260816_122348.jpg",
     "Car/Tayron.md",
     "Car/Q3.md",
     "Car/Golf.md",
