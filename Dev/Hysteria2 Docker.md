@@ -62,3 +62,5 @@ docker logs -f hysteria
 
 `echo -e '#!/bin/sh\ndocker restart hysteria' | sudo tee /etc/letsencrypt/renewal-hooks/deploy/hysteria.sh > /dev/null`
 `sudo chmod +x /etc/letsencrypt/renewal-hooks/deploy/hysteria.sh`
+
+hysteria2://ВАШ_ПАРОЛЬ@xpira.mooo.com:443/?sni=xpira.mooo.com#xpira
