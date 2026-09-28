@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Ubuntu.md",
+                "file": "Dev/SSH/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "SSH"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
+    "Dev/Ubuntu.md",
     "Dev/Hysteria & nginx + SERVER.md",
     "Dev/SSH/SSH.md",
-    "Dev/Ubuntu.md",
     "Dev/SSH/SSH Tunel.md",
     "Dev/GIT.md",
     "Dev/SSH",

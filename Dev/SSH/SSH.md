@@ -18,4 +18,16 @@ SSH-ключ — это просто криптографическая пара
 
 Добавление SSH ключа на сервер
 
-`Get-Content "$env:USERPROFILE\.ssh\id_ed25519_my_new_server.pub" | ssh root@IP_адрес_сервера "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys"`
+`Get-Content "$env:USERPROFILE\.ssh\id_ed25519_my_new_server.pub" | ssh логин@IP_адрес_сервера "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys"`
+
+
+`sudo nano /etc/ssh/sshd_config`
+`PermitRootLogin no`
+`PasswordAuthentication no` 
+`ChallengeResponseAuthentication no` 
+`KbdInteractiveAuthentication no`
+
+**CHECK /etc/ssh/sshd_config.d/**
+
+
+`sudo systemctl restart ssh`
