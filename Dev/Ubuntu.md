@@ -1,3 +1,8 @@
+check version
+`lsb_release -a`
+
+`sudo apt update`
+`sudo apt upgrade`
 
 `adduser sammy`
 
