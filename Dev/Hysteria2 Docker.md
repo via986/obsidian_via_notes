@@ -63,4 +63,8 @@ docker logs -f hysteria
 `echo -e '#!/bin/sh\ndocker restart hysteria' | sudo tee /etc/letsencrypt/renewal-hooks/deploy/hysteria.sh > /dev/null`
 `sudo chmod +x /etc/letsencrypt/renewal-hooks/deploy/hysteria.sh`
 
-hysteria2://ВАШ_ПАРОЛЬ@xpira.mooo.com:443/?sni=xpira.mooo.com#xpira
+hysteria2://LMndo6zC7KGlHNtd472c6gtT9UNIwVg3@xpira.mooo.com:443/?sni=xpira.mooo.com#xpira
+
+**Обычная правильная схема:**
+- **Nginx** занимает **TCP**-порт `80` (для HTTP и проверки Certbot) и/или **TCP**-порт `443` (для веба/HTTPS).    
+- **Hysteria** занимает **UDP**-порт `443` (так как Hysteria работает по протоколу QUIC/UDP, она отлично уживается на 443 порту параллельно с TCP-портом Nginx!).

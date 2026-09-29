@@ -23,3 +23,11 @@ The group listed as gid= is the user's primary group. groups= lists all groups t
 
 If, instead, you want to delete the user's home directory when the user is deleted, you can issue the following command as root:
 `deluser --remove-home newuser`
+
+Далее проверить временную зону и синхронизацию времени (в т.ч. настроить синхронизацию от хоста)
+
+просмотр работающих служб:
+`systemctl list-units --type=service --state=running`
+
+Также нужно проверить конфликты портов
+`sudo ss -tulpn | grep -E '80|443'`

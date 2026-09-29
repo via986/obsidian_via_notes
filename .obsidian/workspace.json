@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/CQG Server.md",
+                "file": "Personal/TorrServer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CQG Server"
+              "title": "TorrServer"
             }
           }
         ]
@@ -188,16 +188,16 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
-    "Dev/Ubuntu.md",
     "Dev/CQG Server.md",
-    "Dev/UV.md",
-    "Dev/Hysteria2 Docker.md",
-    "Dev/Nginx.md",
+    "Dev/GIT.md",
     "Dev/Hysteria & nginx + SERVER.md",
+    "Dev/Hysteria2 Docker.md",
+    "Dev/Nginx (for Hysteria2).md",
+    "Dev/Ubuntu.md",
     "Dev/OpenRouter Clients.md",
+    "Dev/UV.md",
     "Dev/SSH/SSH.md",
     "Dev/SSH/SSH Tunel.md",
-    "Dev/GIT.md",
     "Dev/SSH",
     "Personal/TorrServer.md",
     "IMG_20260816_122348.jpg",
