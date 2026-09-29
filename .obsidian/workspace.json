@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/UV.md",
+                "file": "Dev/Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UV"
+              "title": "Ubuntu"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
+    "Dev/UV.md",
     "Personal/Радио.md",
     "Personal/TorrServer.md",
     "Dev/CQG Server.md",
@@ -197,7 +198,6 @@
     "Dev/Nginx (for Hysteria2).md",
     "Dev/Ubuntu.md",
     "Dev/OpenRouter Clients.md",
-    "Dev/UV.md",
     "Dev/SSH/SSH.md",
     "Dev/SSH/SSH Tunel.md",
     "Dev/SSH",
