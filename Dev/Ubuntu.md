@@ -50,3 +50,19 @@ free -h
 
 #`Verify`
 `free -h`
+
+###### **.iutf8**
+
+```bash
+stty -a | grep -o '.iutf8'
+```
+
+Если выведет `-iutf8` (с минусом), флаг выключен. Включите:
+```bash
+stty iutf8
+```
+
+Чтобы флаг включался при каждом входе:
+```bash
+echo 'stty iutf8 2>/dev/null' >> ~/.bashrc
+```
