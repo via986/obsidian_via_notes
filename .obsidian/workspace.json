@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/TorrServer.md",
+                "file": "Dev/UV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TorrServer"
+              "title": "UV"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "674254eef7dd10c2",
   "lastOpenFiles": [
+    "Personal/Радио.md",
+    "Personal/TorrServer.md",
     "Dev/CQG Server.md",
     "Dev/GIT.md",
     "Dev/Hysteria & nginx + SERVER.md",
@@ -199,7 +201,6 @@
     "Dev/SSH/SSH.md",
     "Dev/SSH/SSH Tunel.md",
     "Dev/SSH",
-    "Personal/TorrServer.md",
     "IMG_20260816_122348.jpg",
     "conflict-files-obsidian-git.md",
     "Dev/Docker/Fast Deploy.md",
@@ -210,7 +211,6 @@
     "Dev/Docker/Образы.md",
     "Dev/Docker/venv.md",
     "Dev/Docker/Open WebUI.md",
-    "Personal/Радио.md",
     "Work/ОМЕГА БАЛАНС.md",
     "Work",
     "Car/Kodiaq.md",
