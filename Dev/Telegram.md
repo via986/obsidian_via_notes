@@ -1,0 +1,4 @@
+
+273964487 - Морусенцев
+357667547 - via
+hermes config set TELEGRAM_ALLOWED_USERS "273964487,357667547"

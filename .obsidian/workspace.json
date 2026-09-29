@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a7241b0932206b",
+        "id": "6fd6ef22744e10ea",
         "type": "tabs",
         "children": [
           {
-            "id": "674254eef7dd10c2",
+            "id": "45c9f99b88c53be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,37 +186,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "674254eef7dd10c2",
+  "active": "45c9f99b88c53be9",
   "lastOpenFiles": [
-    "Dev/OpenRouter Clients.md",
+    "Dev/Telegram.md",
     "Dev/Ubuntu.md",
     "Dev/SSH.md",
-    "Dev/Docker/Fast Deploy.md",
+    "Dev/OpenRouter Clients.md",
+    "Dev/UV.md",
+    "Dev/Hysteria & nginx + SERVER.md",
+    "conflict-files-obsidian-git.md",
     "Dev/Docker/venv.md",
+    "Dev/GIT.md",
+    "Personal/TorrServer.md",
+    "Dev/SSH/SSH.md",
+    "Dev/SSH/SSH Tunel.md",
+    "Dev/SSH",
+    "Dev/Docker/Fast Deploy.md",
     "Dev/Docker/Dev container.md",
     "Dev/Docker/Образы.md",
-    "Dev/GIT.md",
     "Work/Атриум.md",
     "Dev/Docker/Open WebUI.md",
     "Personal/Радио.md",
     "Dev/Docker/Docker Compose.md",
     "Work/ОМЕГА БАЛАНС.md",
     "Work",
-    "Dev/UV.md",
-    "Car/Kodiaq.md",
-    "Dev/Hysteria & nginx + SERVER.md",
+    "Personal/Car/Kodiaq.md",
     "Personal/Size.md",
     "Personal/Hints.md",
     "Personal",
     "IMG_20260816_122348.jpg",
-    "Car/Tayron.md",
-    "Car/Q3.md",
-    "Car/Golf.md",
-    "Welcome.md",
-    "Car",
+    "Personal/Car/Tayron.md",
+    "Personal/Car/Q3.md",
+    "Personal/Car/Golf.md",
+    "Personal/Car",
     "Dev/Docker",
-    "Dev/Docker/devcontainer & .env.md",
-    "Dev/Docker/Docker Volumes.md",
     "Dev"
   ]
 }
