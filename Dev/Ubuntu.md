@@ -26,7 +26,7 @@ If, instead, you want to delete the user's home directory when the user is delet
 
 ###### **Check Time**
 
-Далее проверить временную зону и синхронизацию времени (в т.ч. настроить синхронизацию от хоста)
+Далее проверить временную зону и синхронизацию времени (в т.ч. настроить синхронизацию от хоста - PHC0 задаётся директивой `refclock`)
 
 просмотр работающих служб:
 `systemctl list-units --type=service --state=running`
