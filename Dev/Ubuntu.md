@@ -36,21 +36,19 @@ If, instead, you want to delete the user's home directory when the user is delet
 
 ###### **Add Swapfile**
 
- Check existing swap (likely 0 or small)
-free -h
-
  Allocate a 4GB swapfile
-`sudo fallocate -l 4G /swapfile`
-`sudo chmod 600 /swapfile`
-`sudo mkswap /swapfile`
-`sudo swapon /swapfile`
-
-#`Make it permanent across reboots`
-`echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab`
-
-#`Verify`
-`free -h`
-
+```bash
+# Check existing swap (likely 0 or small)
+free -h
+sudo fallocate -l 4G /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+# Make it permanent across reboots
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+# Verify
+free -h
+```
 ###### **.iutf8**
 
 ```bash
