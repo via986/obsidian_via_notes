@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/SSH/SSH Tunel.md",
+                "file": "Dev/Hysteria & nginx + SERVER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH Tunel"
+              "title": "Hysteria & nginx + SERVER"
             }
           }
         ],
@@ -203,8 +203,10 @@
   },
   "active": "233117eda1b12a67",
   "lastOpenFiles": [
-    "Dev/SSH/SSH.md",
+    "Work/Атриум.md",
+    "Work/ОМЕГА БАЛАНС.md",
     "Dev/SSH/SSH Tunel.md",
+    "Dev/SSH/SSH.md",
     "Dev/SSH",
     "Dev/Ubuntu.md",
     "Personal/TorrServer.md",
@@ -221,7 +223,6 @@
     "Dev/Hysteria & nginx + SERVER.md",
     "Dev/Docker/Open WebUI.md",
     "Personal/Радио.md",
-    "Work/ОМЕГА БАЛАНС.md",
     "Work",
     "Dev/UV.md",
     "Car/Kodiaq.md",
@@ -233,7 +234,6 @@
     "Car/Golf.md",
     "Welcome.md",
     "Car",
-    "Dev/OpenRouter Clients.md",
     "Dev/Docker",
     "Dev"
   ]
