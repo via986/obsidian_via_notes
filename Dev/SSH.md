@@ -11,23 +11,7 @@ SSH-ключ — это просто криптографическая пара
 `notepad "$env:USERPROFILE\.ssh\config"`
 
 Добавьте туда настройки для вашего сервера:
-`Host my-server`
-    `HostName IP_адрес_вашего_VDS`
-    `User root`
-    `IdentityFile ~/.ssh/id_rsa_my_new_server`
-
-Добавление SSH ключа на сервер
-
-`Get-Content "$env:USERPROFILE\.ssh\id_ed25519_my_new_server.pub" | ssh логин@IP_адрес_сервера "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys"`
-
-
-`sudo nano /etc/ssh/sshd_config`
-`PermitRootLogin no`
-`PasswordAuthentication no` 
-`ChallengeResponseAuthentication no` 
-`KbdInteractiveAuthentication no`
-
-**CHECK /etc/ssh/sshd_config.d/**
-
-
-`sudo systemctl restart ssh`
+`Host SELECTEL_VDS 135.106.222.40`
+    `HostName 135.106.222.40`
+    `User via`
+    `IdentityFile C:\Users\via\.ssh\id_ed25519_selectel_vds`
