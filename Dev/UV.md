@@ -6,16 +6,16 @@
 `uv run uvicorn backend.main:app --reload`
 
 **Посмотреть доступные версии**
-`uv python list`
+uv python list
 
 **Скачать нужную версию**
-`uv python install 3.12`
+uv python install 3.12
 
 **Закрепить версию для текущего проекта (создаст .python-version)**
-`uv python pin 3.12`
+uv python pin 3.12
 
 **Чтобы развернуть проект из репозитория с точными версиями из `uv.lock`:**
-`uv sync`
+uv sync
 
 #### CRONTAB
 

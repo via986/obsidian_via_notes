@@ -1,8 +1,3 @@
-###### **check version**
-`lsb_release -a`
-
-`sudo apt update`
-`sudo apt upgrade`
 
 `adduser sammy`
 
@@ -24,43 +19,6 @@ The group listed as gid= is the user's primary group. groups= lists all groups t
 If, instead, you want to delete the user's home directory when the user is deleted, you can issue the following command as root:
 `deluser --remove-home newuser`
 
-###### **Check Time**
+Добавление SSH ключа
 
-Далее проверить временную зону и синхронизацию времени (в т.ч. настроить синхронизацию от хоста - PHC0 задаётся директивой `refclock`)
-
-просмотр работающих служб:
-`systemctl list-units --type=service --state=running`
-
-Также нужно проверить конфликты портов
-`sudo ss -tulpn | grep -E '80|443'`
-
-###### **Add Swapfile**
-
- Allocate a 4GB swapfile
-```bash
-# Check existing swap (likely 0 or small)
-free -h
-sudo fallocate -l 4G /swapfile
-sudo chmod 600 /swapfile
-sudo mkswap /swapfile
-sudo swapon /swapfile
-# Make it permanent across reboots
-echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
-# Verify
-free -h
-```
-###### **.iutf8**
-
-```bash
-stty -a | grep -o '.iutf8'
-```
-
-Если выведет `-iutf8` (с минусом), флаг выключен. Включите:
-```bash
-stty iutf8
-```
-
-Чтобы флаг включался при каждом входе:
-```bash
-echo 'stty iutf8 2>/dev/null' >> ~/.bashrc
-```
+`Get-Content "$env:USERPROFILE\.ssh\id_ed25519_my_new_server.pub" | ssh root@IP_адрес_сервера "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys"`
