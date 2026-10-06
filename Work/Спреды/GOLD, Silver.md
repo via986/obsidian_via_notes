@@ -27,3 +27,6 @@ https://www.ishares.com/us/products/239561/ishares-gold-trust-fund
 
 Для расчёта **NAV** цена золота фиксируется в **15:00 по Лондону**. Трасти оценивает золото траста по **LBMA Gold Price PM**, а этот аукцион **LBMA** проходит каждый рабочий день в **15:00 по лондонскому времени**.
 Closing Price — это обычная биржевая цена. Акции IAU торгуются на NYSE Arca до 16:00 по Нью-Йорку.
+
+По Серебру https://www.ishares.com/us/products/239855/ishares-silver-trust-fund
+493,361,870.50 / 546,300,000 = 0,903
