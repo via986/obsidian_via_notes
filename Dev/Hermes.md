@@ -28,3 +28,5 @@ terminal:
 `docker ps --filter label=hermes-agent=1`
 
 `hermes config set TELEGRAM_ALLOWED_USERS "123456789,987654321"`
+
+https://glama.ai/mcp/servers/ramich2077/tgreader-mcp
