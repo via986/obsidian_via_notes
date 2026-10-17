@@ -4,3 +4,6 @@ via / torrserver
 https://github.com/yourok/torrserver
 
 https://github.com/Kolovatoff/lampa-desktop/blob/main/docs/quick-start.md
+
+Каталог парсеров:
+https://lampame.github.io/main/pubtorr.js
