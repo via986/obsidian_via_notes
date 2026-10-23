@@ -1,4 +1,7 @@
 
+просмотр работающих служб:
+`systemctl list-units --type=service --state=running`
+
 `mkdir -p /opt/hysteria && cd /opt/hysteria`
 `openssl rand -base64 24   # сгенерируйте пароль`
 
