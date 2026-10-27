@@ -24,5 +24,5 @@
 `git push`
 
 **Delete from Git but KEEP the local file**
-git rm --cached filename.txt
-git commit -m "Stop tracking filename.txt"
+`git rm --cached filename.txt`
+`git commit -m "Stop tracking filename.txt"`
