@@ -14,7 +14,7 @@ https://www.aberdeeninvestments.com/en-us/institutional/funds/view-all-funds/abr
 CQG:  **CCE**, **CCET** — Cocoa TAS, сделка по цене будущего сеттла;
 
 
-####  Кофе (KC)
+#### Кофе (KC)
 CQG: KCE — фьючерс; KCET — TAS;
 **1 контракт ICE = 3 750 лотов MOEX.**
 MOEX цена = доллары за фунт, ICE = центы за фунт
