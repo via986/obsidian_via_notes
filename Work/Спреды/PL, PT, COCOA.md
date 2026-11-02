@@ -13,6 +13,9 @@ https://www.aberdeeninvestments.com/en-us/institutional/funds/view-all-funds/abr
 
 CQG:  **CCE**, **CCET** — Cocoa TAS, сделка по цене будущего сеттла;
 
+**Как считать экспирацию:** settle price на US ICE за день до FND * курс ЦБ опубликованный в день экспирации на Мосбирже (т.е. курс на завтра после экспирации). Пример на CCQ6:
+SP CCU6 24.08 5.820 * CBR 26.08 84.4635
+
 
 #### Кофе (KC)
 CQG: KCE — фьючерс; KCET — TAS;
