@@ -10,6 +10,7 @@ https://www.aberdeeninvestments.com/en-us/institutional/funds/view-all-funds/abr
 
 **1 PA на CME = 100 PLD на Мосбирже.**
 **1 CC на CME = 1000 CC на Мосбирже**
+**CCET** — Cocoa TAS, сделка по цене будущего сеттла;
 
 
 
