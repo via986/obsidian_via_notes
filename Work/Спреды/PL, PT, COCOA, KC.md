@@ -11,3 +11,10 @@ https://www.aberdeeninvestments.com/en-us/institutional/funds/view-all-funds/abr
 Пример. FND 23.11, цена экспирации берется 22.11, а курс ЦБ на 24 ноября.
 1 CC ICE = 1000 CC MOEX
 Направленность Si = размер позиции = направленность CQG
+
+##### KC
+KC ICE Contract Size 37,500 pounds
+Contract Series March, May, July, September, December
+Цена экспирации = сетл в день перед FND
+Лот MOEX = 10
+1 KC ICE = 3750 KC MOEX
