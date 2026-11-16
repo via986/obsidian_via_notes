@@ -18,3 +18,4 @@ Contract Series March, May, July, September, December
 Цена экспирации = сетл в день перед FND
 Лот MOEX = 10
 1 KC ICE = 3750 KC MOEX
+**TAS Ticker** KCETZ26 ("T" after ticker code)
