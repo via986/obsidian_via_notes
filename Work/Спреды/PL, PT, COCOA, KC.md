@@ -13,6 +13,11 @@ https://www.aberdeeninvestments.com/en-us/institutional/funds/view-all-funds/abr
 Направленность Si = размер позиции = направленность CQG
 **TAS Ticker** CCET26 ("T" after ticker code)
 
+Проверил расчёт по CCQ6 / CCU26
+Наша расчётка в день экспиры вечером 25.08: 491,6
+Амер сетл (см Daily график Barchart, цена CLOSE 24.08 т.к. FND 25.08) 5820
+Курс ЦБ на 26.08 (расчёт 25.08): 84,4635
+491,6/84,4635 * 1000 = 5820
 ##### KC
 KC ICE Contract Size 37,500 pounds
 Contract Series March, May, July, September, December
