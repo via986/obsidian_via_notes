@@ -12,6 +12,7 @@ https://www.aberdeeninvestments.com/en-us/institutional/funds/view-all-funds/abr
 1 CC ICE = 1000 CC MOEX
 Направленность Si = размер позиции = направленность CQG
 **TAS Ticker** CCET26 ("T" after ticker code)
+**Cocoa Settlement Time:** 11:50 ET
 
 Проверил расчёт по CCQ6 / CCU26
 Наша расчётка в день экспиры вечером 25.08: 491,6
@@ -25,3 +26,4 @@ Contract Series March, May, July, September, December
 Лот MOEX = 10
 1 KC ICE = 3750 KC MOEX
 **TAS Ticker** KCETZ26 ("T" after ticker code)
+**KC Settlement Time:** 12:25 ET
