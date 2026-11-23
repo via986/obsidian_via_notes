@@ -13,6 +13,7 @@ https://www.aberdeeninvestments.com/en-us/institutional/funds/view-all-funds/abr
 Направленность Si = размер позиции = направленность CQG
 **TAS Ticker** CCET26 ("T" after ticker code)
 **Cocoa Settlement Time:** 11:50 ET
+Settlement price = VWAP last 2 minutes
 
 Проверил расчёт по CCQ6 / CCU26
 Наша расчётка в день экспиры вечером 25.08: 491,6
